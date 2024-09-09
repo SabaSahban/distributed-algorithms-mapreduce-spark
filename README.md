@@ -1,6 +1,6 @@
 # Distributed Algorithms with MapReduce and Spark
 
-This project focuses on implementing distributed algorithms like Dijkstra's shortest path and PageRank using Hadoop MapReduce and Apache Spark. It showcases large-scale data processing, including real-world datasets such as the E. coli genome and COVID-19 mortality data.
+This project focuses on implementing distributed algorithms such as Dijkstra's shortest path and PageRank using Hadoop MapReduce. It demonstrates large-scale data processing by utilizing real-world datasets, including the COVID-19 mortality data with MapReduce and the E. coli genome dataset using Apache Spark for efficient distributed computing.
 
 ## Features
 - **MapReduce**: Implements Dijkstra's and PageRank algorithms for distributed data processing.
